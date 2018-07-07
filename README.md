@@ -23,6 +23,6 @@ Le projet sera disponible sur Github.
 ## Test de l'exercice :
 
     $ git clone https://github.com/kris-ipeh/WCS_react-router.git
-    $ cd WCS_react-router.git
+    $ cd WCS_react-router
     $ npm install
 
