@@ -1,6 +1,6 @@
 # On the route to React 
 
-Suite à la création d'un projet via le `` create-react-app ``, rajoute deux composants (Home, History); 
+Suite à la création d'un projet via le `` create-react-app ``, rajoute deux composants (Home, History); 
 
 la navigation devra pouvoir s'effectuer sans rechargement entre ces deux pages. Il y a aura une navigation possible grâce à des liens (à la façon d'une barre de navigation), lorsque que l'URL actuelle coïncide avec le lien du bouton, le lien doit être rouge.
 
@@ -19,3 +19,10 @@ Le projet sera disponible sur Github.
 
 * La navigation se fait sans rafraichissement
 * Le lien de la page /notre-histoire est en rouge lorsqu'on est sur la page
+
+## Test de l'exercice :
+
+    $ git clone https://github.com/kris-ipeh/wcs-react-router.git
+    $ cd wcs-react-router
+    $ npm install
+
